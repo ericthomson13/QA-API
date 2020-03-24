@@ -1,4 +1,4 @@
-# Questiona and Answers API Microservice
+# Questions and Answers API Microservice
 
 This is an API microservice that was built to support the Questions and Answers Section of the JET Productions Ecommerce site.
 
